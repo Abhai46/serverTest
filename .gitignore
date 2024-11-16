@@ -1,0 +1,3 @@
+node_modules
+.env
+# gitignore is used to ignore files while adding to git
